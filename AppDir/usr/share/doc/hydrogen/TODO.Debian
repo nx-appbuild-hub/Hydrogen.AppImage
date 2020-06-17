@@ -1,0 +1,2 @@
+  * Generate manpage during normal build (i.e. figure out why it fails
+    when chained with other rules).

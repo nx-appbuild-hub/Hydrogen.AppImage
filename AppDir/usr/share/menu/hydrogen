@@ -1,0 +1,5 @@
+?package(hydrogen):command="././/bin/hydrogen" \
+section="Applications/Sound" \
+needs="X11" \
+title="Hydrogen" \
+icon="././/share/pixmaps/h2-icon.xpm"

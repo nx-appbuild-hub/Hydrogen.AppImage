@@ -1,0 +1,26 @@
+[Desktop Entry]
+Name=Hydrogen
+Comment=Create drum sequences
+Comment[de]=Schlagzeugsequenzen erstellen
+Comment[ru]=Создание партий ударных инструментов
+Comment[hu]=Dobszekvenciákat lehet vele készíteni
+Comment[tr]=Davul partisyonu yaz
+
+GenericName=Drum Machine
+GenericName[de]=Drumsequencer
+GenericName[ru]=Драм-машина
+GenericName[tr]=Davul Makinası
+
+Version=1.0
+
+Type=Application
+Categories=AudioVideo;Audio;Qt;
+
+MimeType=text/xml;
+
+Exec=hydrogen.wrapper %F
+TryExec=hydrogen.wrapper
+Terminal=false
+StartupNotify=true
+
+Icon=h2-icon
